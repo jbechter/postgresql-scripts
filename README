@@ -1,0 +1,5 @@
+Postgresql utility scripts
+
+ - avg_dir : aggregate function for average compass heading
+
+
